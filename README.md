@@ -1,1 +1,1 @@
-# covid_dash.github.io
+# covid19_dashboard
